@@ -20,17 +20,14 @@ I ship small, learn loud, and optimize for momentum. If it doesn’t move the MR
 I’m documenting the journey publicly—wins, flops, graphs, and spicy pivots.
 
 **Progress**
-$0 ▯────────────────────────────── $5k
+$0 ─▯───────────────────────────── $5k
+
 hahaha 😂 (just starting)
 
 ---
 
 ## 🔭 What I’m Building (right now)
-- **Mobile-first micro-SaaS** with SwiftUI + tiny backends  
-- **AI-powered utilities** that remove boring steps for solo builders  
-- **Opinionated tooling** for going from idea → mockup → MVP fast
-
-> Rule of thumb: Ship within a week, monetize within a month.
+- **nofu.app** — my first **iOS** app  → [nofu.app](https://nofu.app)  
 
 ---
 
