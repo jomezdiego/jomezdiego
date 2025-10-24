@@ -20,8 +20,8 @@ I ship small, learn loud, and optimize for momentum. If it doesn’t move the MR
 I’m documenting the journey publicly—wins, flops, graphs, and spicy pivots.
 
 **Progress**
-$0 ─────▯───────────────────────── $5k
-
+$0 ▯────────────────────────────── $5k
+hahaha 😂 (just starting)
 
 ---
 
@@ -35,37 +35,11 @@ $0 ─────▯───────────────────�
 ---
 
 ## 🧰 Stack
-- **Mobile:** SwiftUI, StoreKit, WidgetKit, Combine  
-- **Backend (ex-life):** Node/TypeScript, FastAPI, PostgreSQL, Redis, Docker  
+- **Mobile:** Swift, SwiftUI
+- **Backend (ex-life):** Spring  
 - **AI:** Python, OpenAI APIs, prompt systems, embeddings, RAG  
 - **Ops:** Cloudflare, Fly.io / Render, GitHub Actions, Plausible  
 - **Indie staples:** Gumroad/Lemonsqueezy, Stripe, Notion, Fathom/Plausible
-
----
-
-## 📈 Build Log
-- [ ] Week 1: Ship v0 of iOS app skeleton (onboarding, paywall, 1 killer feature)  
-- [ ] Week 2: Add basic analytics + crash reporting  
-- [ ] Week 3: Ship one AI feature that saves users *minutes* daily  
-- [ ] Week 4: First 10 paying users or a hard pivot  
-- [ ] Month 2: Subscription retention > 70% at Day 30  
-*(I keep the boxes honest. No box-ticking without a commit.)*
-
----
-
-## 🎛️ Tiny Playbook
-- **Default to simple.** Fewer screens, fewer states, fewer headaches.  
-- **Charge early.** Free users are nice; paying users tell the truth.  
-- **Narrate the work.** Shipping is marketing when you do it in public.  
-- **Automate boring.** If it’s repeatable, the computer does it.
-
----
-
-## 🗺️ Roadmap (sketch)
-1. Nail one painful use case for indie devs/founders  
-2. Build native iOS quality → win on speed + UX  
-3. Add AI where it *removes taps*, not where it adds hype  
-4. Systematize acquisition channels (X, SEO snippets, tiny partnerships)
 
 ---
 
