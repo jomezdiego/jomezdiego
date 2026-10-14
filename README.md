@@ -1,54 +1,65 @@
-# Hey, I’m Diego — a.k.a. **@jomezdiego** 👋
+# Hey, I'm Diego 👋
 
-**software engineer • rookie indie hacker • ai enjoyer**  
-ex-backend dev → rookie iOS dev, trying to scale from **$0 → $5k MRR**
+**Software Engineer · AI Explorer · Creative Technologist**
 
-[![Build in Public](https://img.shields.io/badge/Build%20in%20Public-%23black)](#-build-log)
-[![Indie Hacker](https://img.shields.io/badge/Indie%20Hacker-on%20X-1DA1F2)](#-say-hi)
-[![iOS](https://img.shields.io/badge/iOS-SwiftUI-brightgreen)](#-stack)
-[![AI](https://img.shields.io/badge/AI-Enthusiast-purple)](#-stack)
+I'm a software engineer interested in the intersection of **artificial intelligence, software engineering, and creative technology**.
 
----
+I enjoy exploring emerging technologies, experimenting with new ideas, and turning research into things that actually work.
 
-## TL;DR
-I ship small, learn loud, and optimize for momentum. If it doesn’t move the MRR needle, it’s a weekend experiment.
+Currently exploring **LLMs, AI agents, RAG, and intelligent systems**, while building my own products and experimenting with what's next.
 
 ---
 
-## 🎯 Current Goal
-**$0 → $5,000 MRR**  
-I’m documenting the journey publicly—wins, flops, graphs, and spicy pivots.
+### 🧠 Areas of Interest
 
-**Progress**
-$0 ─▯───────────────────────────── $5k
+- **Artificial Intelligence** — LLMs, agents, RAG, embeddings & applied AI
+- **AI Research & Experimentation** — exploring new models, tools, architectures & emerging capabilities
+- **Software Engineering** — backend systems, APIs, architecture & distributed systems
+- **Creative Technology** — combining code, design & AI to create new experiences
+- **Product Development** — from early experiments to real-world applications
 
-hahaha 😂 (just starting)
+### 🚀 Projects & Experiments
+
+**[ULF Studio](https://ulf-studio.com/)**  
+*A creative technology practice.*
+
+Exploring the intersection of AI, software, design, and digital experiences. A space to experiment, build, and bring unconventional ideas to life.
+
+**[NOFU](https://nofu.app/)**  
+*An iOS app to help people quit smoking.*
+
+Built with SwiftUI, focused on creating a thoughtful and engaging experience for people trying to build healthier habits.
+
+### ⚙️ Tech & Tools
+
+**Languages**  
+Java · Swift · Python · TypeScript · SQL
+
+**Frameworks & Platforms**  
+Spring Boot · SwiftUI · Next.js · React · Firebase
+
+**AI & Research**  
+LLMs · AI Agents · RAG · Vector Databases · OpenAI APIs · Anthropic APIs
+
+**Infrastructure**  
+Docker · Linux · PostgreSQL · Cloudflare · GitHub Actions
+
+### 🔬 Currently Exploring
+
+- Building useful applications with **AI agents and LLMs**
+- Retrieval-augmented generation and AI-powered knowledge systems
+- Emerging AI models, tools, and research
+- AI-assisted software engineering workflows
+- Bridging the gap between research, engineering, and real-world products
 
 ---
 
-## 🔭 What I’m Building (right now)
-- **nofu.app** — my first **iOS** app  → [nofu.app](https://nofu.app)  
+### 🌐 Find Me Online
+
+- **Website / Studio:** [ulf-studio.com](https://ulf-studio.com/)
+- **X / Twitter:** [@jomezdiego](https://x.com/jomezdiego)
+- **GitHub:** [@jomezdiego](https://github.com/jomezdiego)
 
 ---
 
-## 🧰 Stack
-- **Mobile:** Swift, SwiftUI
-- **Backend (ex-life):** Spring  
-- **AI:** Python, OpenAI APIs, prompt systems, embeddings, RAG  
-- **Ops:** Cloudflare, Fly.io / Render, GitHub Actions, Plausible  
-- **Indie staples:** Gumroad/Lemonsqueezy, Stripe, Notion, Fathom/Plausible
-
----
-
-## 📬 Say Hi
-- **X (Twitter):** `@jomezdiego` — DMs open for collabs & feedback  
-
-> If you’re also chasing your first **$1 → $5k MRR**, let’s swap notes.
-
----
-
-## ⚡ Don’t leave without…
-- Starring something you want me to double-down on ⭐  
-- Dropping a “build in public” nudge—I’ll ship faster 😅
-
-> *“Momentum > motivation.”* — let’s go.
+*Stay curious. Keep experimenting. Build things that matter.*
